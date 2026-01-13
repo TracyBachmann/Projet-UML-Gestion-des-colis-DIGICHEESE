@@ -6,8 +6,6 @@ Le rendu principal est disponible sous forme de présentation interactive (Genia
 👉 Présentation complète :  
 ➡️ https://view.genially.com/696489abd7bae9282d0c8eea/presentation-application-de-gestion-des-colis-digicheese
 
----
-
 ## Contenu du dépôt
 
 Le dépôt inclut :
@@ -30,20 +28,17 @@ Le dépôt inclut :
 └── README.md
 ```
 
----
-
 ## Ce que couvre le projet
 
 - Contexte et objectifs  
 - Acteurs et architecture globale  
 - Cas d’utilisation métier et support  
 - Scénario textuel de gestion d’un colis  
-- Diagrammes :  
+- Diagrammes :
+  - Cas d'utilisation 1 et 2
   - Séquence DS1 et DS2  
   - Activité DA1 et DA2  
   - Modèle de classes  
-
----
 
 ## Remarque
 
