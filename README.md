@@ -3,8 +3,8 @@
 Ce dépôt contient le travail réalisé dans le cadre du projet de modélisation UML portant sur l’application de gestion des colis de la fromagerie DIGICHEESE.  
 Le rendu principal est disponible sous forme de présentation interactive (Genially).
 
-👉 Présentation complète :  
-➡️ https://view.genially.com/696489abd7bae9282d0c8eea/presentation-application-de-gestion-des-colis-digicheese
+Présentation complète :  
+https://view.genially.com/696489abd7bae9282d0c8eea/presentation-application-de-gestion-des-colis-digicheese
 
 ## Contenu du dépôt
 
