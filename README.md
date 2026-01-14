@@ -10,7 +10,7 @@ Le rendu principal est disponible sous forme de présentation interactive (Genia
 
 Le dépôt inclut :
 
-- les exports des différents diagrammes UML (séquence, activité, classe) ;
+- les exports des différents diagrammes UML (cas d'utilisation, séquence, activité, classe) ;
 - le lien vers la présentation Genially, qui centralise l’ensemble des explications.
 
 ### Organisation
@@ -39,11 +39,3 @@ Le dépôt inclut :
   - Séquence DS1 et DS2  
   - Activité DA1 et DA2  
   - Modèle de classes  
-
-## Remarque
-
-La présentation Genially contient :
-- les explications détaillées,
-- les commentaires complémentaires,
-- la justification de la modélisation,
-- l’illustration des scénarios métier.
