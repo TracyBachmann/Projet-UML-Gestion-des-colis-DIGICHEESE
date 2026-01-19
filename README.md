@@ -1,5 +1,7 @@
 # Projet UML – Gestion des colis DIGICHEESE
 
+[Travail de BACHMANN Tracy]
+
 Ce dépôt contient le travail réalisé dans le cadre du projet de modélisation UML portant sur l’application de gestion des colis de la fromagerie DIGICHEESE.  
 Le rendu principal est disponible sous forme de présentation interactive (Genially).
 
